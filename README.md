@@ -2,7 +2,8 @@
 
 Markdownで同人誌を書くためのテンプレート
 
-c.f. [How We Automated Our Ebook Builds With Pandoc and KindleGen](https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen)
+- [How We Automated Our Ebook Builds With Pandoc and KindleGen](https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen)
+- [Creating an ebook with pandoc](https://pandoc.org/epub.html)
 
 ## ビルド(dev)
 
