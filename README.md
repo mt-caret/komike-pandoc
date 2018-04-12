@@ -10,7 +10,7 @@ Markdownで同人誌を書くためのテンプレート
 Nixパッケージマネージャを入れて
 
 ```bash
-$ nix run -c make
+$ nix-shell --run make
 ```
 
 ## ビルド(prod/ci)
